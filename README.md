@@ -1,2 +1,2 @@
 # Telsco
-This Project show the Customer Rixk
+This Project show the Customer Risk
